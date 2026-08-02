@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
