@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
