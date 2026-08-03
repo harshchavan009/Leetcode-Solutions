@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
