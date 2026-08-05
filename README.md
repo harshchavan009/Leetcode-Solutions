@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
