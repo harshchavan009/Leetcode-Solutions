@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -223,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
