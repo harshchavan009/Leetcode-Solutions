@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
