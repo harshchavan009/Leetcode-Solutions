@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Linked List
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
