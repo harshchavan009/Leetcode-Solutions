@@ -65,11 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
