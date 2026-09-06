@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Array
