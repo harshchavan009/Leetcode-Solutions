@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
