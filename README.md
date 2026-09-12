@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
