@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0115-distinct-subsequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
