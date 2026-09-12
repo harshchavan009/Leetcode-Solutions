@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
