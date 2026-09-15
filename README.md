@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
