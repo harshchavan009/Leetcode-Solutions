@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -426,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
