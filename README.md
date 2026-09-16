@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Dynamic Programming
@@ -491,4 +494,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
