@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Dynamic Programming
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
