@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
