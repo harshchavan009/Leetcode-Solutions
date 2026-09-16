@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -469,4 +471,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
