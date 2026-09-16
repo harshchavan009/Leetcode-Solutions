@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
@@ -512,4 +514,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
