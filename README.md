@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Sorting
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
