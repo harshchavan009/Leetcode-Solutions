@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,4 +544,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
