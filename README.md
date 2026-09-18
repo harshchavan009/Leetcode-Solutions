@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
