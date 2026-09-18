@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
