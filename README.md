@@ -591,4 +591,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
