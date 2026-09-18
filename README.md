@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
