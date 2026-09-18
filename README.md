@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0174-dungeon-game/) | Hard |
+| [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -530,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
