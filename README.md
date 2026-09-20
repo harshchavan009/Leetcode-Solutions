@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -570,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
