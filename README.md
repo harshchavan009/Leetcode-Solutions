@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
