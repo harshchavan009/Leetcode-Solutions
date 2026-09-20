@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0213-house-robber-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
