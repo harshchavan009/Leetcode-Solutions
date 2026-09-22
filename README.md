@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0192-word-frequency/) | Medium |
+| [0193-valid-phone-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
