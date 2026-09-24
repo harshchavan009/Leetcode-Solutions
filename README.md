@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0264-ugly-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0264-ugly-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0264-ugly-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0218-the-skyline-problem/) | Hard |
+| [0264-ugly-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
