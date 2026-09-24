@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -674,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
