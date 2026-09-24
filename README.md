@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0223-rectangle-area/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
