@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0221-maximal-square/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -386,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
