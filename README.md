@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0221-maximal-square](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
