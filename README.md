@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0216-combination-sum-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
