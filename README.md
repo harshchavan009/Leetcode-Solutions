@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,4 +747,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0218-the-skyline-problem/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
