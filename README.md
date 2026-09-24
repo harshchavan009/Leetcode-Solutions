@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0275-h-index-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -429,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -683,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
