@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0275-h-index-ii/) | Medium |
+| [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0284-peeking-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0284-peeking-iterator/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
