@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0260-single-number-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
