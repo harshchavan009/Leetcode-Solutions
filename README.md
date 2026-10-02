@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0313-super-ugly-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0313-super-ugly-number/) | Medium |
+| [0319-bulb-switcher](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -877,4 +878,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
