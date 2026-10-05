@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0322-coin-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -892,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
