@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0313-super-ugly-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0313-super-ugly-number/) | Medium |
 | [0319-bulb-switcher](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0343-integer-break/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0313-super-ugly-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
+| [0343-integer-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0343-integer-break/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
