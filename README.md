@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
