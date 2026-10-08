@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0264-ugly-number-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
