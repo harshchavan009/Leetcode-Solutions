@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0367-valid-perfect-square](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0310-minimum-height-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -980,4 +983,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
