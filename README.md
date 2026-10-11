@@ -864,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0180-consecutive-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0577-employee-bonus](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
