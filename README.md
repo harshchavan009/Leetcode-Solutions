@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0342-power-of-four](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
