@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0342-power-of-four](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0394-decode-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0394-decode-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
