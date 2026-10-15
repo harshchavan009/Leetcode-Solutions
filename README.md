@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -668,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -690,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -700,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -837,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1083,4 +1089,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
