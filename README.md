@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1075,8 +1077,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
