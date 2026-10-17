@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
