@@ -924,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
