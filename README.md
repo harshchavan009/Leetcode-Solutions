@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
