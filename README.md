@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3870-count-commas-in-range](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
