@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -817,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -846,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -867,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
