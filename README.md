@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
+| [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
