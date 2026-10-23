@@ -618,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
