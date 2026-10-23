@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
