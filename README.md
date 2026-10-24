@@ -839,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -870,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -892,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
