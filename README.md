@@ -595,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -895,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -938,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1178,4 +1183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
