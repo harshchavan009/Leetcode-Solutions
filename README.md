@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -954,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1015,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
