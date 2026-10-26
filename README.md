@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
