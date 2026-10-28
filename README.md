@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -698,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
