@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
@@ -1071,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
