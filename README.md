@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -1112,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
