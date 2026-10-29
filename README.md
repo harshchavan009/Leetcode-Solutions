@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0771-jewels-and-stones](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0771-jewels-and-stones](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
