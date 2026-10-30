@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-shortest-completing-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -1179,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
