@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0696-count-binary-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
