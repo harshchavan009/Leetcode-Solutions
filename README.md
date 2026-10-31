@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0696-count-binary-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -847,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
