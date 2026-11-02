@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0860-lemonade-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -863,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
