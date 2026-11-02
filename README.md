@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0598-range-addition-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0393-utf-8-validation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
