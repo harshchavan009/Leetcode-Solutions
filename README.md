@@ -693,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0868-binary-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0868-binary-gap/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
