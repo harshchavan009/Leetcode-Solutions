@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -1022,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
