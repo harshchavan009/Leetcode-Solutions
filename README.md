@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Merge Sort
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -1228,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0218-the-skyline-problem/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
