@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0888-fair-candy-swap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
