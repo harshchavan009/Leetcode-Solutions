@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0888-fair-candy-swap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -1120,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
