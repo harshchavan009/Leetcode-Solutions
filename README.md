@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [0908-smallest-range-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0908-smallest-range-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0941-valid-mountain-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
