@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0925-long-pressed-name](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0925-long-pressed-name](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
