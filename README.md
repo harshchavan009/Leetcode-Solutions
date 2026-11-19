@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -951,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1378,4 +1383,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
