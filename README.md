@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1189,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1197,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1394,4 +1399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
