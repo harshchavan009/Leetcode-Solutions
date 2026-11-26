@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshchavan009/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
